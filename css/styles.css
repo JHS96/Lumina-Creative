@@ -242,6 +242,7 @@ img {
 
 .contact textarea {
   height: 200px;
+  resize: none;
 }
 
 .contact input:focus,
